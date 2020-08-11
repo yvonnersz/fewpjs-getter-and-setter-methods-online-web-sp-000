@@ -6,15 +6,15 @@ class Circle {
   }
 
   get diameter(radius) {
-    
+
   }
 
   get circumference(radius) {
-    
+
   }
 
   get area(radius) {
-    
+
   }
-  
+
 }
