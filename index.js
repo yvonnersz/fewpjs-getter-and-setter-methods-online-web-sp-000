@@ -6,7 +6,7 @@ class Circle {
   }
 
   get diameter(radius) {
-
+    return 2*Math.PI
   }
 
   get circumference(radius) {
